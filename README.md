@@ -17,3 +17,9 @@
 ![Alt text](ScreenShots/Activity3_screenshot_of_my_repo.PNG)
 2. home page of deployed website after changing the theme colour to dark blue
 ![Alt text](ScreenShots/Activity3_screenshot_of_my_site_change_colour.PNG)
+
+### Activity 4: Creating new section and embedding google maps
+1. screen shot of the repo, there are 9 deployments now
+![Alt text](ScreenShots/Activity4_screenshot_of_my_repo.PNG)
+2. screen shot of the new section "Places Travelled", from the deployed website
+![Alt text](ScreenShots/Activity4_screenshot_of_places_travelled.PNG)
